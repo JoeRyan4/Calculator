@@ -1,3 +1,8 @@
+//Joe
+//class to add numbers
+//date
+//email
+
 package ie.gmit;
 
 public class Calculator {
